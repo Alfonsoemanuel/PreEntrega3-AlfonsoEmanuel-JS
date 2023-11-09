@@ -1,0 +1,129 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav {
+    padding: 10px;
+    margin-inline: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    font-size: 30px;
+    word-spacing: 10px;
+  }
+  
+  .logo {
+    text-align: center;
+  }
+  
+  body {
+    background-color: #000000;
+  }
+  
+  h1 {
+    margin: 50px;
+    color: #f5f5f5;
+    text-align: center;
+    text-decoration: underline;
+  }
+  
+  h2 {
+    color: #f5f5f5;
+    text-decoration: underline;
+    margin-block: 20px;
+    text-align: center;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  li {
+    display: inline-block;
+  }
+  
+  footer {
+    text-align: center;
+    background-color: #9acd32;
+    margin-top: 10px;
+    padding: 5px;
+  }
+  footer .redes {
+    margin-top: 18px;
+    align-items: center;
+  }
+  footer .facebook {
+    padding-right: 85px;
+  }
+  footer .instagram {
+    padding-inline: 84px;
+  }
+  footer .spotyfi {
+    padding-inline: 85px;
+  }
+  footer .tiktok {
+    padding-inline-start: 75px;
+  }
+  
+  .facebook:hover {
+    transform: scale(2);
+  }
+  
+  .instagram:hover {
+    transform: scale(2);
+  }
+  
+  .spotyfi:hover {
+    transform: scale(2);
+  }
+  
+  .tiktok:hover {
+    transform: scale(2);
+  }
+
+  .merchandising {
+    margin: 10px;
+    padding-left: 20px;
+  }
+  .merchandising .productos {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px;
+    border: solid #f5f5f5;
+  }
+  .merchandising .productos .remera {
+    padding: 10px;
+    border: 2px solid #f5f5f5;
+    justify-content: center;
+    text-align: center;
+  }
+  .merchandising .productos .buzo {
+    padding: 10px;
+    border: 2px solid #f5f5f5;
+    justify-content: center;
+    text-align: center;
+  }
+  .merchandising .productos .gorra {
+    padding: 10px;
+    border: 2px solid #f5f5f5;
+    justify-content: center;
+    text-align: center;
+  }
+  .merchandising .productos .llavero {
+    padding: 10px;
+    border: 2px solid #f5f5f5;
+    justify-content: center;
+    text-align: center;
+  }
+  .merchandising .productos .campera {
+    padding: 10px;
+    border: 2px solid #f5f5f5;
+    justify-content: center;
+    text-align: center;
+  }
+  .merchandising .productos .vinilo {
+    padding: 10px;
+    border: 2px solid #f5f5f5;
+    justify-content: center;
+    text-align: center;
+  }
